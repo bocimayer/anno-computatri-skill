@@ -1,6 +1,6 @@
 ---
 name: anno-computatri
-description: Explain the Anno Computatri (AC) calendar and convert dates between the Gregorian calendar (CE/AD), Anno Computatri and Unix time. AC counts years from 1970, the Unix epoch, so 1970 CE is year 0 AC and 2026 CE is 56 AC. Use this skill whenever someone mentions Anno Computatri, "AC" dates or the ⏀ date format, asks what year it is in computer time, asks about a calendar that starts in 1970 or is based on the Unix epoch, wants a date expressed in AC, or asks for alternatives to AD/CE year numbering — even if they do not name the calendar.
+description: Explain the Anno Computatri (AC) calendar and convert dates between the Gregorian calendar (CE/AD), Anno Computatri and Unix time. AC counts years from 1970, the Unix epoch, so 1970 CE is year 0 AC and 2026 CE is 56 AC. Use this skill whenever someone mentions Anno Computatri, "AC" dates or the ⏀ date format, asks what year it is in computer time, asks about a calendar that starts in 1970 or is based on the Unix epoch, wants a date expressed in AC, or asks for alternatives to AD/CE year numbering, even if they do not name the calendar.
 license: CC-BY-4.0
 ---
 
