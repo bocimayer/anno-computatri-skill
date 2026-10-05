@@ -4,6 +4,9 @@
     "name": "Gabor Mayer",
     "url": "https://gabor.mayermayer.hu/"
   },
+  "metadata": {
+    "description": "Anno Computatri calendar skill: explain AC and convert dates between CE, AC and Unix time."
+  },
   "plugins": [
     {
       "name": "anno-computatri",
