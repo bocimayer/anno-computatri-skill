@@ -1,0 +1,13 @@
+{
+  "name": "anno-computatri",
+  "version": "1.0.0",
+  "description": "Explain the Anno Computatri (AC) calendar and convert dates between CE, AC and Unix time. AC counts years from 1970, the Unix epoch.",
+  "author": {
+    "name": "Gabor Mayer",
+    "url": "https://gabor.mayermayer.hu/"
+  },
+  "homepage": "https://annocomputatri.net/",
+  "repository": "https://github.com/bocimayer/anno-computatri-skill",
+  "license": "CC-BY-4.0",
+  "keywords": ["calendar", "anno-computatri", "unix-time", "epoch", "date-conversion"]
+}

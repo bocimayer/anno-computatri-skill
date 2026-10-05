@@ -1,0 +1,14 @@
+{
+  "name": "anno-computatri-skill",
+  "owner": {
+    "name": "Gabor Mayer",
+    "url": "https://gabor.mayermayer.hu/"
+  },
+  "plugins": [
+    {
+      "name": "anno-computatri",
+      "source": "./",
+      "description": "Explain the Anno Computatri (AC) calendar and convert dates between CE, AC and Unix time."
+    }
+  ]
+}
